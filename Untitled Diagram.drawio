@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="Page-1" id="uqGoRRFVobq48VPTha0x">
-    <mxGraphModel dx="1434" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,13 +34,16 @@
         <mxCell id="KrNsN0gfztRpw3SpxQ73-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;shape=link;" edge="1" parent="1" source="KrNsN0gfztRpw3SpxQ73-10" target="KrNsN0gfztRpw3SpxQ73-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="KrNsN0gfztRpw3SpxQ73-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KrNsN0gfztRpw3SpxQ73-10" target="KrNsN0gfztRpw3SpxQ73-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KrNsN0gfztRpw3SpxQ73-10" value="Before the availability of scholarship application, same date with Renewal, the Scholars that will renew their contracts will need to create a new account" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="220" y="330" width="360" height="90" as="geometry" />
         </mxCell>
         <mxCell id="KrNsN0gfztRpw3SpxQ73-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=link;" edge="1" parent="1" source="KrNsN0gfztRpw3SpxQ73-11" target="KrNsN0gfztRpw3SpxQ73-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KrNsN0gfztRpw3SpxQ73-11" value="RULES&lt;br&gt;&lt;br&gt;&lt;div&gt;Prioritizing the former scholars(Renewal) in giving a slot in Scholarship than new applicants&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="KrNsN0gfztRpw3SpxQ73-11" value="RULES&lt;br&gt;&lt;br&gt;&lt;div&gt;Rule No 1: Prioritizing the former scholars(Renewal) in giving a slot in Scholarship than new applicants&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="10" y="220" width="230" height="100" as="geometry" />
         </mxCell>
         <mxCell id="KrNsN0gfztRpw3SpxQ73-16" value="This is to determine how many slots will be available for new applicants" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
@@ -48,6 +51,9 @@
         </mxCell>
         <mxCell id="KrNsN0gfztRpw3SpxQ73-18" value="This accounts of course had already complete everything, so in creation of an account here&#39;s the ui&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Renewal&lt;br&gt;Name:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Yr Level:&lt;/div&gt;&lt;div&gt;Email:&lt;/div&gt;&lt;div&gt;Contact no:&lt;/div&gt;&lt;div&gt;Dept:&lt;/div&gt;&lt;div&gt;Church:&lt;/div&gt;&lt;div&gt;&lt;p&gt;How many times have you renewed as a scholar?:&amp;nbsp;&lt;/p&gt;&lt;p&gt;No. of hours: preselected(60 hours)&lt;/p&gt;&lt;p&gt;No. of Caregroup:&lt;/p&gt;&lt;p&gt;No. of Fellowship: preselected(3)&lt;/p&gt;&lt;p&gt;scholar id: predefined(can be used to login)&lt;/p&gt;&lt;p&gt;Password:&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Create account:&lt;/p&gt;&lt;p&gt;// I suggest, inform the scholar to remember their scholarID or take a picture of it.&lt;/p&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="620" y="300" width="540" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="KrNsN0gfztRpw3SpxQ73-20" value="The system then process and saved the information received&lt;br&gt;&lt;br&gt;providing the following info;&lt;div&gt;&lt;span style=&quot;text-align: start; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- No. of Slot avbl for new applicants&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: start; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- No. of Slot taken(per Dept &amp;amp; Church)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: start; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: start; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;in this way, we meet the Rule no. 1&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="235" y="510" width="330" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
