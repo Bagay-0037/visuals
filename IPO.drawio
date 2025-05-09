@@ -14,102 +14,102 @@
           <mxGeometry x="774" y="160" width="310" height="640" as="geometry" />
         </mxCell>
         <mxCell id="8Q48xsuIol9S2teQEiAj-15" value="&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td data-col-size=&quot;sm&quot; data-end=&quot;1063&quot; data-start=&quot;1033&quot;&gt;&lt;strong data-end=&quot;1051&quot; data-start=&quot;1035&quot;&gt;&lt;/strong&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td data-col-size=&quot;md&quot; data-end=&quot;1138&quot; data-start=&quot;1063&quot;&gt;Set Semester : Date Start, Date End&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="74" y="210" width="220" height="30" as="geometry" />
+          <mxGeometry x="72" y="210" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Q48xsuIol9S2teQEiAj-16" value="&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Create Account: Surname, Firstname, Email, Role&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="74" y="266" width="220" height="30" as="geometry" />
+          <mxGeometry x="72" y="266" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Q48xsuIol9S2teQEiAj-17" value="&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Application/ Renewal: Surname, Firstname, email, softcopy documents/requirements&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="59" y="321" width="250" height="30" as="geometry" />
+          <mxGeometry x="57" y="321" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Q48xsuIol9S2teQEiAj-18" value="&lt;div&gt;Validator:&amp;nbsp;Status (Approve/Reject)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="64" y="377" width="240" height="30" as="geometry" />
+          <mxGeometry x="62" y="377" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Q48xsuIol9S2teQEiAj-19" value="Fellowship&amp;nbsp; Attendance: Fellowship Date, Church Name (scanned via QR)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="54" y="432" width="260" height="30" as="geometry" />
+          <mxGeometry x="52" y="432" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Q48xsuIol9S2teQEiAj-20" value="&lt;div&gt;Grand Fellowship Date, Church Name (scanned via QR)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="59" y="488" width="250" height="30" as="geometry" />
+          <mxGeometry x="57" y="488" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Q48xsuIol9S2teQEiAj-21" value="Gratis Attendance:Time In, Time Out, Department (QR-based)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="69" y="543" width="230" height="30" as="geometry" />
+          <mxGeometry x="67" y="543" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Q48xsuIol9S2teQEiAj-22" value="Monitoring Personnel: violation hours" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="69" y="599" width="230" height="30" as="geometry" />
+          <mxGeometry x="67" y="599" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Q48xsuIol9S2teQEiAj-23" value="Scholar: Surname, Firstname, Email → Later: Schedule, Department, Church" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="64" y="654" width="240" height="30" as="geometry" />
+          <mxGeometry x="62" y="654" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Q48xsuIol9S2teQEiAj-24" value="&lt;div&gt;&lt;div&gt;Personnel: Department/Church, Surname, Firstname, Email, Role&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="74" y="710" width="220" height="30" as="geometry" />
+          <mxGeometry x="72" y="710" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Q48xsuIol9S2teQEiAj-25" value="Save dates in DB; set as active semester; serve as filter for all data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="427" y="210" width="240" height="30" as="geometry" />
+          <mxGeometry x="438" y="210" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Q48xsuIol9S2teQEiAj-26" value="Generate username/password; assign role; save to DB; send credentials via email" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="427" y="261" width="240" height="40" as="geometry" />
+          <mxGeometry x="438" y="261" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8Q48xsuIol9S2teQEiAj-27" value="Save to &lt;code data-end=&quot;1857&quot; data-start=&quot;1846&quot;&gt;applicant&lt;/code&gt; table; pending validator review" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="427" y="317" width="240" height="40" as="geometry" />
+          <mxGeometry x="438" y="317" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8Q48xsuIol9S2teQEiAj-28" value="Update applicant status in DB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="427" y="373" width="240" height="40" as="geometry" />
+          <mxGeometry x="438" y="373" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8Q48xsuIol9S2teQEiAj-29" value="Validate location and QR code; confirm scholar presence; save to DB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="427" y="429" width="240" height="40" as="geometry" />
+          <mxGeometry x="438" y="429" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8Q48xsuIol9S2teQEiAj-30" value="Same as regular fellowship; tag as final session" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="427" y="486" width="240" height="40" as="geometry" />
+          <mxGeometry x="438" y="486" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8Q48xsuIol9S2teQEiAj-31" value="Validate QR and department; compute total time; save to DB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="427" y="542" width="240" height="40" as="geometry" />
+          <mxGeometry x="438" y="542" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8Q48xsuIol9S2teQEiAj-32" value="Input violation; add to scholar’s total violation hours" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="427" y="598" width="240" height="40" as="geometry" />
+          <mxGeometry x="438" y="598" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8Q48xsuIol9S2teQEiAj-33" value="Create account and email credentials; Scholar fills out remaining info on first login" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="427" y="654" width="240" height="40" as="geometry" />
+          <mxGeometry x="438" y="654" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8Q48xsuIol9S2teQEiAj-34" value="Same as Create Account; just includes department/church assignment" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="427" y="710" width="240" height="40" as="geometry" />
+          <mxGeometry x="438" y="710" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8Q48xsuIol9S2teQEiAj-35" value="&#xa;All data tagged to the selected semester&#xa;&#xa;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="819" y="210" width="220" height="30" as="geometry" />
+          <mxGeometry x="824" y="210" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Q48xsuIol9S2teQEiAj-36" value="Account created and emailed" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="819" y="267" width="220" height="30" as="geometry" />
+          <mxGeometry x="824" y="267" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Q48xsuIol9S2teQEiAj-37" value="Application recorded; status pending" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="819" y="323" width="220" height="30" as="geometry" />
+          <mxGeometry x="824" y="323" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Q48xsuIol9S2teQEiAj-38" value="Application approved or rejected" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="819" y="380" width="220" height="30" as="geometry" />
+          <mxGeometry x="824" y="380" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Q48xsuIol9S2teQEiAj-39" value="Attendance recorded; shown in Scholar UI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="819" y="437" width="220" height="30" as="geometry" />
+          <mxGeometry x="824" y="437" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Q48xsuIol9S2teQEiAj-40" value="Recorded; marks final fellowship for the period" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="819" y="493" width="220" height="30" as="geometry" />
+          <mxGeometry x="824" y="493" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Q48xsuIol9S2teQEiAj-41" value="Daily hours recorded; shown in Scholar&#39;s gratis section" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="819" y="550" width="220" height="30" as="geometry" />
+          <mxGeometry x="824" y="550" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Q48xsuIol9S2teQEiAj-42" value="Violation logged; counts against required hours" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="819" y="607" width="220" height="30" as="geometry" />
+          <mxGeometry x="824" y="607" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Q48xsuIol9S2teQEiAj-43" value="Account created; Scholar data updated" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="819" y="663" width="220" height="30" as="geometry" />
+          <mxGeometry x="824" y="663" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Q48xsuIol9S2teQEiAj-44" value="Personnel account created; used for fellowship/gratis tracking" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="819" y="720" width="220" height="30" as="geometry" />
+          <mxGeometry x="824" y="720" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8Q48xsuIol9S2teQEiAj-46" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" edge="1" parent="1">
+        <mxCell id="8Q48xsuIol9S2teQEiAj-46" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;width=25;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="484" as="sourcePoint" />
             <mxPoint x="391" y="483.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8Q48xsuIol9S2teQEiAj-47" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;flowAnimation=0;" edge="1" parent="1">
+        <mxCell id="8Q48xsuIol9S2teQEiAj-47" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;flowAnimation=0;width=25;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="722" y="486.5" as="sourcePoint" />
             <mxPoint x="766" y="486" as="targetPoint" />
