@@ -115,6 +115,15 @@
             <mxPoint x="766" y="486" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="8Q48xsuIol9S2teQEiAj-51" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 24px;&quot;&gt;INPUT&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="29" y="80" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q48xsuIol9S2teQEiAj-52" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 24px;&quot;&gt;PROCESS&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="402" y="80" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8Q48xsuIol9S2teQEiAj-53" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 24px;&quot;&gt;OUTPUT&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="774" y="80" width="310" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
