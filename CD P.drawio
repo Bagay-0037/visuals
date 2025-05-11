@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.3">
   <diagram name="Page-1" id="xXsOjZ-kMZfIS7d9MTo8">
-    <mxGraphModel dx="3477" dy="1315" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
+    <mxGraphModel dx="2778" dy="928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -91,8 +91,8 @@
         <mxCell id="UhX584XFw8gSICuTclrN-19" value="approval of exit" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="631" y="1500" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UhX584XFw8gSICuTclrN-20" value="date of renewal,fellowship and grand fellowship" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="580" y="1655" width="440" height="30" as="geometry" />
+        <mxCell id="UhX584XFw8gSICuTclrN-20" value="date of renewal,fellowship &amp;amp; grand fellowship" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="606" y="1660" width="440" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UhX584XFw8gSICuTclrN-21" value="violation hours" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="715" y="1559" width="160" height="30" as="geometry" />
