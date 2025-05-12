@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.3">
   <diagram name="Page-1" id="H9mCC4LKSI06X5eU0nQ4">
-    <mxGraphModel dx="2340" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
+    <mxGraphModel dx="1575" dy="263" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1259,22 +1259,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bBNReim9IivtYAumU8x--223" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.636;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="bBNReim9IivtYAumU8x--224" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-630" y="2240" as="targetPoint" />
-            <mxPoint x="100" y="2073" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="-600" y="2083" />
-              <mxPoint x="110" y="2083" />
-              <mxPoint x="110" y="2073" />
-              <mxPoint x="-800" y="2073" />
-              <mxPoint x="-800" y="2240" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bBNReim9IivtYAumU8x--224" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Scholarship Admin&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.externalEntity;fontFamily=Lucida Console;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="-740" y="1960" width="220" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="bBNReim9IivtYAumU8x--225" value="Semester Id" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="2148" y="2158" width="240" height="30" as="geometry" />
         </mxCell>
@@ -2303,11 +2287,11 @@
         <mxCell id="bBNReim9IivtYAumU8x--395" value="DB9" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
           <mxGeometry x="570" y="4770" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bBNReim9IivtYAumU8x--396" value="1.0" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="348" y="4470" width="162" height="50" as="geometry" />
+        <mxCell id="bBNReim9IivtYAumU8x--396" value="1.0" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;rounded=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="470" y="1830" width="130" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="bBNReim9IivtYAumU8x--397" value="Set Semester" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="bBNReim9IivtYAumU8x--396" vertex="1">
-          <mxGeometry y="20" width="162" height="30" as="geometry" />
+        <mxCell id="bBNReim9IivtYAumU8x--397" value="Set Semester" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;perimeterSpacing=0;spacingTop=30;spacingBottom=30;" parent="bBNReim9IivtYAumU8x--396" vertex="1">
+          <mxGeometry y="20" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bBNReim9IivtYAumU8x--399" value="2.0" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="554" y="4470" width="162" height="50" as="geometry" />
@@ -2491,6 +2475,39 @@
         </mxCell>
         <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-17" value="Reports" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="929.5" y="4910" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="RpUNXSWF-gNv1XYwJZ2Y-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="1867.6666666666665" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="RpUNXSWF-gNv1XYwJZ2Y-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="1890" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="275" y="1890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RpUNXSWF-gNv1XYwJZ2Y-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="1910" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="1910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-20" value="Scholarship Admin" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="175" y="1855" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-24" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Semester Name&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="294.5" y="1844" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-25" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Date Start&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="313" y="1865" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-26" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Date End&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="316.5" y="1885" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
