@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.3">
   <diagram name="Page-1" id="H9mCC4LKSI06X5eU0nQ4">
-    <mxGraphModel dx="2288" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
+    <mxGraphModel dx="3219" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1561,7 +1561,7 @@
             <mxPoint x="1460" y="2106" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-67" value="DB2" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-67" value="DB9" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
           <mxGeometry x="1400" y="2066" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-68" value="Users" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -1577,7 +1577,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-69" value="DB3" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-69" value="DB11" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
           <mxGeometry x="1086" y="2250" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-70" value="Validator_Info" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -1741,7 +1741,7 @@
         <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-118" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Date Start&amp;nbsp; &amp;amp; Date End&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="246" y="2254" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-120" value="DB4" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-120" value="DB25" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
           <mxGeometry x="759" y="2240" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-121" value="Renewal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -1781,297 +1781,489 @@
         <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-129" value="Renewal Details" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="623" y="2270" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-130" value="3.1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;rounded=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="510" y="2385" width="130" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-131" value="Renewal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;perimeterSpacing=0;spacingTop=30;spacingBottom=30;" vertex="1" parent="RpUNXSWF-gNv1XYwJZ2Y-130">
-          <mxGeometry y="20" width="130" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RpUNXSWF-gNv1XYwJZ2Y-133">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="500" y="2415" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="460" y="2415" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-133" value="Renewing Scholar" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="140" y="2390" width="127.5" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-139" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Surname, First Name&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="311" y="2390" width="170" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-140" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Email&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="362" y="2415" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="500" y="2440" as="targetPoint" />
-            <mxPoint x="271.5" y="2440" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="463.5" y="2440" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-142" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Only available in the first semester of the system&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=light-dark(#ff0000, #ededed);" vertex="1" parent="1">
-          <mxGeometry x="71.5" y="2350" width="350" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1123" y="2439.71" as="targetPoint" />
-            <mxPoint x="943" y="2439.71" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-143" value="3.2" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;rounded=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="808.5" y="2390" width="130" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-144" value="Generate username,&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;password and set&lt;/span&gt;&lt;div&gt;the role to Scholar&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;perimeterSpacing=0;spacingTop=10;spacingBottom=10;" vertex="1" parent="RpUNXSWF-gNv1XYwJZ2Y-143">
-          <mxGeometry y="20" width="130" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="798.75" y="2439.9999999999995" as="targetPoint" />
-            <mxPoint x="646.75" y="2440.18" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="738.75" y="2439.9999999999995" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-146" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Scholar Details&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="656" y="2415" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-147" value="DB2" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
-          <mxGeometry x="1483.5" y="2435" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1497.83" y="2550" as="targetPoint" />
-            <mxPoint x="1497.83" y="2470" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-148" value="Users" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="2435" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-149" value="DB3" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
-          <mxGeometry x="1132.5" y="2610" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-151" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Account Credentials&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="930" y="2415" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-152" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Role&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="996" y="2435" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-154" value="3.3" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;rounded=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1142.5" y="2390" width="135" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-155" value="Generate User Id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;perimeterSpacing=0;spacingTop=30;spacingBottom=30;" vertex="1" parent="RpUNXSWF-gNv1XYwJZ2Y-154">
-          <mxGeometry y="20" width="135" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1123" y="2460" as="targetPoint" />
-            <mxPoint x="943" y="2460" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-160" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Semester Id(0)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="884" y="2326" width="120" height="30" as="geometry" />
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-160" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Semester Id&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="843.5" y="2340" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="850" y="2380" as="targetPoint" />
-            <mxPoint x="1020" y="2340" as="sourcePoint" />
+            <mxPoint x="839.25" y="2422" as="targetPoint" />
+            <mxPoint x="839" y="2280" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1020" y="2350" />
-              <mxPoint x="850" y="2350" />
+              <mxPoint x="839.25" y="2392" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-161" value="DB1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
-          <mxGeometry x="975" y="2300" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-162" value="Semester" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1005" y="2300" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1123" y="2480" as="targetPoint" />
-            <mxPoint x="943" y="2480" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-165" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Semester Id(0)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="970" y="2455" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1465" y="2429.71" as="targetPoint" />
-            <mxPoint x="1285" y="2429.71" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-167" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Role&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1338" y="2425" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1465" y="2450" as="targetPoint" />
-            <mxPoint x="1285" y="2450" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1465" y="2470" as="targetPoint" />
-            <mxPoint x="1285" y="2470" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-170" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Semester Id(0)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1312" y="2445" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-171" value="Scholar_info" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1158.25" y="2610" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.744;exitY=1.029;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1136.5" y="2595" as="targetPoint" />
-            <mxPoint x="1226.5" y="2490" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="1226.5" y="2555" />
-              <mxPoint x="1136.5" y="2555" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-173" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;User Id&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1145.5" y="2533" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1126.5" y="2615" as="targetPoint" />
-            <mxPoint x="1206.5" y="2495" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="1206.5" y="2541" />
-              <mxPoint x="1096.5" y="2541" />
-              <mxPoint x="1096.5" y="2615" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-175" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Semester Id(0)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1087.5" y="2517" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1126.5" y="2625" as="targetPoint" />
-            <mxPoint x="1186.5" y="2495" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="1186.5" y="2525" />
-              <mxPoint x="1076.5" y="2525" />
-              <mxPoint x="1076.5" y="2625" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-177" value="Scholar Account Details" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1041.5" y="2501" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-178" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Account Credentials&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1285" y="2405" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1718.4999999999995" y="2624" as="targetPoint" />
-            <mxPoint x="1588.5" y="2624" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="1618.5" y="2624" />
-              <mxPoint x="1618.5" y="2624" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-180" value="3.4" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;rounded=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="2560" width="135" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-181" value="Send the account&lt;div&gt;credentials&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;perimeterSpacing=0;spacingTop=30;spacingBottom=30;" vertex="1" parent="RpUNXSWF-gNv1XYwJZ2Y-180">
-          <mxGeometry y="20" width="135" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-182" value="Account Credentials" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1500" y="2501" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-183" value="Scholar" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1728.5" y="2601" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-184" value="Account Credentials" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1583.5" y="2599" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1418" y="2627" as="targetPoint" />
-            <mxPoint x="1258" y="2627" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="1288" y="2627" />
-              <mxPoint x="1288" y="2627" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-187" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Email&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1302" y="2598" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-188" value="3.1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;rounded=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="510.5" y="2547" width="130" height="100" as="geometry" />
+          <mxGeometry x="469.75" y="2429" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-189" value="Renewal Login" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;perimeterSpacing=0;spacingTop=30;spacingBottom=30;" vertex="1" parent="RpUNXSWF-gNv1XYwJZ2Y-188">
           <mxGeometry y="20" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-190" value="Renewing Scholar" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="139.25" y="2554" width="127.5" height="50" as="geometry" />
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-190" value="Scholar" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="151" y="2436" width="127.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="497" y="2580" as="targetPoint" />
-            <mxPoint x="268.5" y="2580" as="sourcePoint" />
+            <mxPoint x="460" y="2460" as="targetPoint" />
+            <mxPoint x="280" y="2460" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="460.5" y="2580" />
+              <mxPoint x="280" y="2460" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-193" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;username &amp;amp; password&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="301" y="2554" width="170" height="30" as="geometry" />
+          <mxGeometry x="281" y="2433" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-195" value="3.2" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;rounded=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="823.5" y="2551" width="130" height="100" as="geometry" />
+          <mxGeometry x="782.75" y="2433" width="130" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-196" value="Renewal Login" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;perimeterSpacing=0;spacingTop=30;spacingBottom=30;" vertex="1" parent="RpUNXSWF-gNv1XYwJZ2Y-195">
-          <mxGeometry y="20" width="130" height="80" as="geometry" />
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-196" value="Submission of&amp;nbsp;&lt;div&gt;Requirements&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;perimeterSpacing=0;spacingTop=15;spacingBottom=15;" vertex="1" parent="RpUNXSWF-gNv1XYwJZ2Y-195">
+          <mxGeometry y="20" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="798.75" y="2578.6599999999994" as="targetPoint" />
-            <mxPoint x="646.75" y="2578.8399999999997" as="sourcePoint" />
+            <mxPoint x="758" y="2460.6599999999994" as="targetPoint" />
+            <mxPoint x="606" y="2460.8399999999997" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="738.75" y="2578.6599999999994" />
+              <mxPoint x="698" y="2460.6599999999994" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-198" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;name&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="691" y="2554" width="60" height="30" as="geometry" />
+          <mxGeometry x="650.25" y="2436" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="801" y="2600.8299999999995" as="targetPoint" />
-            <mxPoint x="649" y="2601.0099999999998" as="sourcePoint" />
+            <mxPoint x="760.25" y="2482.8299999999995" as="targetPoint" />
+            <mxPoint x="608.25" y="2483.0099999999998" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="741" y="2600.8299999999995" />
+              <mxPoint x="700.25" y="2482.8299999999995" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="805" y="2619.8299999999995" as="targetPoint" />
-            <mxPoint x="653" y="2620.0099999999998" as="sourcePoint" />
+            <mxPoint x="764.25" y="2501.8299999999995" as="targetPoint" />
+            <mxPoint x="612.25" y="2502.0099999999998" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="745" y="2619.8299999999995" />
+              <mxPoint x="704.25" y="2501.8299999999995" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-201" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;email&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="691" y="2578" width="60" height="30" as="geometry" />
+          <mxGeometry x="650.25" y="2460" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-202" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;requirements&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="666" y="2598" width="110" height="30" as="geometry" />
+          <mxGeometry x="625.25" y="2480" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-203" value="DB25" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="1312" y="4910" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-204" value="Renewal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1371.5" y="4910" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-222" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1380" y="2560" as="targetPoint" />
+            <mxPoint x="1380" y="2510" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-205" value="DB18" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="1329.5" y="2466" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-206" value="Renewal_info" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1364.5" y="2466" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-209" value="3.3" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;rounded=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="2436" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-210" value="Generate Id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;perimeterSpacing=0;spacingTop=15;spacingBottom=15;" vertex="1" parent="RpUNXSWF-gNv1XYwJZ2Y-209">
+          <mxGeometry y="20" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="920" y="2470" as="sourcePoint" />
+            <mxPoint x="1050" y="2470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-212" value="Submitted&amp;nbsp;&lt;div&gt;Requirements&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="930" y="2431" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-220" value="Renewal Id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1222.5" y="2446" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-232" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="921.7142857142857" y="2620" as="targetPoint" />
+            <mxPoint x="1030" y="2620" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="990" y="2620" />
+              <mxPoint x="990" y="2620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-221" value="Validator" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1043.5" y="2600" width="127.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-223" value="3.4" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;rounded=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1314.5" y="2568" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-227" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RpUNXSWF-gNv1XYwJZ2Y-223" source="RpUNXSWF-gNv1XYwJZ2Y-225">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-137.49999999999977" y="55" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-225" value="Checking of&amp;nbsp;&lt;div&gt;Requirements&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;perimeterSpacing=0;spacingTop=15;spacingBottom=15;" vertex="1" parent="RpUNXSWF-gNv1XYwJZ2Y-223">
+          <mxGeometry y="20" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-226" value="Renewal Id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="2520" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-228" value="Renewal Id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="2587" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-234" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1044.13" y="2643" as="targetPoint" />
+            <mxPoint x="924.13" y="2643" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-229" value="3.5" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;rounded=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="786.5" y="2595" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-251" value="Set Status&lt;div&gt;(approve or reject)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="RpUNXSWF-gNv1XYwJZ2Y-229">
+          <mxGeometry y="20" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-235" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990.6300000000002" y="2738.003333333333" as="targetPoint" />
+            <mxPoint x="859.13" y="2668" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="859.13" y="2738" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-236" value="Approved" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="684" y="2615" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-237" value="Rejected" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="894.63" y="2718" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-238" value="DB20" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="451" y="2610" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-239" value="DB21" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="1008.13" y="2738" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-241" value="Approved_Renewal_Info" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="486.5" y="2610" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-242" value="Renewal Id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="679" y="2596" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-243" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="646.25" y="2640" as="targetPoint" />
+            <mxPoint x="766.25" y="2640" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-244" value="Renewal Id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="892.13" y="2738" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-245" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="993.6300000000002" y="2758.003333333333" as="targetPoint" />
+            <mxPoint x="839.13" y="2668" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="839.13" y="2758" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-258" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1329.13" y="2765" as="targetPoint" />
+            <mxPoint x="1199.13" y="2765" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1329.13" y="2765" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-246" value="Rejected_Renewal_Info" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1044.13" y="2738" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-252" value="Renewal Id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="944" y="2598" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-253" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="989.13" y="2778" as="targetPoint" />
+            <mxPoint x="816.88" y="2667" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="817.13" y="2778" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-254" value="Remarks" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="873.13" y="2757" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-255" value="3.6B" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;rounded=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1344.13" y="2718" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-262" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RpUNXSWF-gNv1XYwJZ2Y-255">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="225.8699999999999" y="42" as="targetPoint" />
+            <mxPoint x="135.8699999999999" y="42" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-256" value="Email the Scholar" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;spacingTop=15;spacingBottom=15;" vertex="1" parent="RpUNXSWF-gNv1XYwJZ2Y-255">
+          <mxGeometry y="20" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-257" value="Remarks" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1225.13" y="2745" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-259" value="Renewal Id(Email)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1199.13" y="2725" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-260" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1326.63" y="2744.67" as="targetPoint" />
+            <mxPoint x="1196.63" y="2744.67" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1326.63" y="2744.67" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-261" value="Scholar" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1586" y="2735" width="127.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-263" value="Result" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1495" y="2735" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-266" value="3.1 A" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;rounded=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-1481.5" y="1876" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-267" value="Renewal( initial only)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;perimeterSpacing=0;spacingTop=30;spacingBottom=30;" vertex="1" parent="RpUNXSWF-gNv1XYwJZ2Y-266">
+          <mxGeometry y="20" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-268" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="RpUNXSWF-gNv1XYwJZ2Y-269" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1491.5" y="1906" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1531.5" y="1906" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-269" value="Scholar" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1851.5" y="1881" width="127.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-270" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Surname, First Name&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1680.5" y="1881" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-271" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Email&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1629.5" y="1906" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-272" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1491.5" y="1931" as="targetPoint" />
+            <mxPoint x="-1720" y="1931" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-1528" y="1931" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-273" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Only available in the first semester of the system&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=light-dark(#ff0000, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="-1920" y="1841" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-274" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-868.5" y="1930.71" as="targetPoint" />
+            <mxPoint x="-1048.5" y="1930.71" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-275" value="3.2" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;rounded=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-1183" y="1881" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-276" value="Generate username,&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;password and set&lt;/span&gt;&lt;div&gt;the role to Scholar&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;perimeterSpacing=0;spacingTop=10;spacingBottom=10;" vertex="1" parent="RpUNXSWF-gNv1XYwJZ2Y-275">
+          <mxGeometry y="20" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-277" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1192.75" y="1930.9999999999995" as="targetPoint" />
+            <mxPoint x="-1344.75" y="1931.1799999999998" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-1252.75" y="1930.9999999999995" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-278" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Scholar Details&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1335.5" y="1906" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-279" value="DB9" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="-508" y="1926" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-280" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-493.6700000000001" y="2041" as="targetPoint" />
+            <mxPoint x="-493.6700000000001" y="1961" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-281" value="Users" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-471.5" y="1926" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-282" value="DB12" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="-859" y="2101" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-283" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Account Credentials&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1061.5" y="1906" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-284" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Role&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-995.5" y="1926" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-285" value="3.3" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;rounded=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-849" y="1881" width="135" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-286" value="Generate User Id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;perimeterSpacing=0;spacingTop=30;spacingBottom=30;" vertex="1" parent="RpUNXSWF-gNv1XYwJZ2Y-285">
+          <mxGeometry y="20" width="135" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-287" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-868.5" y="1951" as="targetPoint" />
+            <mxPoint x="-1048.5" y="1951" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-292" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-868.5" y="1971" as="targetPoint" />
+            <mxPoint x="-1048.5" y="1971" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-293" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Semester Id(0)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1021.5" y="1946" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-294" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-526.5" y="1920.71" as="targetPoint" />
+            <mxPoint x="-706.5" y="1920.71" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-295" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Role&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-653.5" y="1916" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-296" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-526.5" y="1941" as="targetPoint" />
+            <mxPoint x="-706.5" y="1941" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-297" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-526.5" y="1961" as="targetPoint" />
+            <mxPoint x="-706.5" y="1961" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-298" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Semester Id(0)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-679.5" y="1936" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-299" value="Scholar_info" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-833.25" y="2101" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-300" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.744;exitY=1.029;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-855" y="2086" as="targetPoint" />
+            <mxPoint x="-765" y="1981" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-765" y="2046" />
+              <mxPoint x="-855" y="2046" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-301" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;User Id&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-846" y="2024" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-302" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-865" y="2106" as="targetPoint" />
+            <mxPoint x="-785" y="1986" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-785" y="2032" />
+              <mxPoint x="-895" y="2032" />
+              <mxPoint x="-895" y="2106" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-303" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Semester Id(0)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-904" y="2008" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-304" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-865" y="2116" as="targetPoint" />
+            <mxPoint x="-805" y="1986" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-805" y="2016" />
+              <mxPoint x="-915" y="2016" />
+              <mxPoint x="-915" y="2116" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-305" value="Scholar Account Details" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-950" y="1992" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-306" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Account Credentials&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-706.5" y="1896" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-307" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-273.00000000000045" y="2115" as="targetPoint" />
+            <mxPoint x="-403" y="2115" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-373" y="2115" />
+              <mxPoint x="-373" y="2115" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-308" value="3.4" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#ffffff;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;rounded=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-551.5" y="2051" width="135" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-309" value="Send the account&lt;div&gt;credentials&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;perimeterSpacing=0;spacingTop=30;spacingBottom=30;" vertex="1" parent="RpUNXSWF-gNv1XYwJZ2Y-308">
+          <mxGeometry y="20" width="135" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-310" value="Account Credentials" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-491.5" y="1992" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-311" value="Scholar" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-263" y="2092" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-312" value="Account Credentials" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-408" y="2090" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-313" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-573.5" y="2118" as="targetPoint" />
+            <mxPoint x="-733.5" y="2118" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-703.5" y="2118" />
+              <mxPoint x="-703.5" y="2118" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-314" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;Email&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-689.5" y="2089" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-215" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1320" y="2480" as="targetPoint" />
+            <mxPoint x="1200" y="2480" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1270" y="2480" />
+              <mxPoint x="1270" y="2480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RpUNXSWF-gNv1XYwJZ2Y-322" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="646.25" y="2617" as="targetPoint" />
+            <mxPoint x="766.25" y="2617" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
