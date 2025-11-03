@@ -1,9 +1,855 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.8">
   <diagram name="Page-1" id="bu7ijvKzc_CctX-Fdzx_">
-    <mxGraphModel>
+    <mxGraphModel dx="5478" dy="1790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-166" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=81;strokeWidth=2;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-840" y="502" width="509" height="481" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-167" value="" style="line;strokeWidth=2;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-840" y="572" width="509" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-168" value="&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;b&gt;&lt;span style=&quot;line-height: 107%;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot; face=&quot;Lucida Console&quot;&gt;Cloud-Based Scholarship&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;&lt;span style=&quot;line-height: 107%;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Lucida Console&quot;&gt;Management and&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;line-height: 107%;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Lucida Console&quot;&gt;Monitoring&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;line-height: 107%;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Lucida Console&quot;&gt;System&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;line-height: 107%;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Lucida Console&quot;&gt;for GRC MLALAF&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p align=&quot;center&quot; class=&quot;MsoNormal&quot;&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;line-height: 107%;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot; face=&quot;Lucida Console&quot;&gt;Scholarship&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Lucida Console;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-821" y="683" width="480" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-169" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;0&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-601" y="533" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-170" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Scholarship Head&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.externalEntity;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-1220" y="152" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.636;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-670" y="492" as="targetPoint" />
+            <mxPoint x="-1090" y="152" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-1080" y="152" />
+              <mxPoint x="-1080" y="142" />
+              <mxPoint x="-670" y="142" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-750" y="492" as="targetPoint" />
+            <mxPoint x="-1000" y="222" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-750" y="222" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-730" y="492" as="targetPoint" />
+            <mxPoint x="-1000" y="201" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-730" y="201" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-710" y="492" as="targetPoint" />
+            <mxPoint x="-1000" y="180" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-710" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-690" y="492" as="targetPoint" />
+            <mxPoint x="-1000" y="161" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-690" y="161" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-650" y="492" as="targetPoint" />
+            <mxPoint x="-1100" y="142" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-1100" y="122" />
+              <mxPoint x="-650" y="122" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-630" y="492" as="targetPoint" />
+            <mxPoint x="-1120" y="142" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-1120" y="142" />
+              <mxPoint x="-1120" y="102" />
+              <mxPoint x="-740" y="102" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-610" y="492" as="targetPoint" />
+            <mxPoint x="-1140" y="142" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-1140" y="82" />
+              <mxPoint x="-610" y="82" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-590" y="492" as="targetPoint" />
+            <mxPoint x="-1160" y="142" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-1160" y="62" />
+              <mxPoint x="-590" y="62" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-570" y="492" as="targetPoint" />
+            <mxPoint x="-1180" y="142" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-1180" y="42" />
+              <mxPoint x="-570" y="42" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-183" value="Created Accounts(with corresponding roles)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-1079" y="41" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-184" value="Semester Limitations(Total Slots, Dept Slot, Ch Sched, Total Gratis req)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-1203" y="15" width="670" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-185" value="Approval (for absent or exit)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-1039" y="60" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-186" value="mainpage options(post, availability of Forms link)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-1090" y="80" width="463" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-187" value="E-signature" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-1079" y="100" width="463" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-188" value="Fellowship Dates" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-1069" y="120" width="463" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-189" value="Events" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-964.5" y="139" width="254" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-190" value="Violation Management(revert)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-974.75" y="157" width="274.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-191" value="OTP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-975.75" y="178" width="274.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-192" value="New password/email" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-983.5" y="199" width="274.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-204" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-840" y="496" as="sourcePoint" />
+            <mxPoint x="-1130" y="286" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1130" y="486" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.923;entryY=1.03;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-849" y="506" as="sourcePoint" />
+            <mxPoint x="-1149" y="286" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1149" y="506" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-208" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.923;entryY=1.03;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-860" y="546" as="sourcePoint" />
+            <mxPoint x="-1194" y="286" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1194" y="546" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-210" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.923;entryY=1.03;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-860" y="526" as="sourcePoint" />
+            <mxPoint x="-1170" y="286" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1170" y="526" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-212" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-800" y="496" as="sourcePoint" />
+            <mxPoint x="-1090" y="286" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1090" y="446" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-214" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-820" y="496" as="sourcePoint" />
+            <mxPoint x="-1110" y="286" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-820" y="466" />
+              <mxPoint x="-1110" y="466" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-215" value="OTP(email)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-1000" y="419" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-216" value="reports" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-1020" y="444" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-218" value="Last Semester Scholar Slot" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-1100" y="464" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-219" value="Exit Request" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="484" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-220" value="List of Scholars&#39; Dept" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-1130" y="502" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-221" value="List of Scholars&#39; Church" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-1140" y="524" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-222" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-770" y="492" as="targetPoint" />
+            <mxPoint x="-1000" y="242" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-770" y="242" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-223" value="New Date(fellowship)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-1005.25" y="219" width="274.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-226" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-270" y="134" as="targetPoint" />
+            <mxPoint x="-520" y="484" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-520" y="114" />
+              <mxPoint x="-270" y="114" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-227" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-460" y="484" as="targetPoint" />
+            <mxPoint x="-160" y="274" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-160" y="454" />
+              <mxPoint x="-460" y="454" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-228" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Applicant&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.externalEntity;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-359" y="142" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-229" value="applicant info" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="388" width="159" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-230" value="soft copy requirements(files)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="408" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-231" value="&lt;span class=&quot;_fadeIn_m1hgl_8&quot;&gt;Partial (&lt;/span&gt;&lt;span class=&quot;_fadeIn_m1hgl_8&quot;&gt;40%) &lt;/span&gt;&lt;span class=&quot;_fadeIn_m1hgl_8&quot;&gt;or &lt;/span&gt;&lt;span class=&quot;_fadeIn_m1hgl_8&quot;&gt;Full (&lt;/span&gt;&lt;span class=&quot;_fadeIn_m1hgl_8&quot;&gt;100%) Scho&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-474" y="431" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-232" value="Application Status" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-529" y="90" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-233" value="Account Credentials(as scho)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="71" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-234" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-230" y="134" as="targetPoint" />
+            <mxPoint x="-540" y="484" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-540" y="94" />
+              <mxPoint x="-230" y="94" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-236" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-480" y="484" as="targetPoint" />
+            <mxPoint x="-180" y="274" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-180" y="433" />
+              <mxPoint x="-480" y="433" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-237" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-500" y="484" as="targetPoint" />
+            <mxPoint x="-200" y="274" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-200" y="412" />
+              <mxPoint x="-500" y="412" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-238" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-130" y="561" as="targetPoint" />
+            <mxPoint x="-322" y="521" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-130" y="521" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-239" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Validator&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.externalEntity;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-239" y="572" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-240" value="new username, password" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-331" y="769" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-241" value="validator info" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-265" y="749" width="139" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-243" value="Account Credentials" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-321" y="520" width="182" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-244" value="Applicant Info" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-359" y="498.5" width="289" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-246" value="request decision" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-282" y="727.5" width="166" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-247" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-150" y="562" as="targetPoint" />
+            <mxPoint x="-323" y="541" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-150" y="541" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-249" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-322" y="752" as="targetPoint" />
+            <mxPoint x="-112" y="692" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-112" y="752" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-250" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-322" y="772" as="targetPoint" />
+            <mxPoint x="-92" y="692" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-92" y="772" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-251" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-322" y="792" as="targetPoint" />
+            <mxPoint x="-72" y="692" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-72" y="792" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-252" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="KA4KKc2KkNfriNgj_y6W-166">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-110" y="562" as="targetPoint" />
+            <mxPoint x="-340" y="492" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-331" y="492" />
+              <mxPoint x="-110" y="492" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-253" value="Recent validated applicants" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-374.5" y="468.5" width="289" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-254" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-112" y="1432" as="targetPoint" />
+            <mxPoint x="-532" y="992" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-532" y="1692" />
+              <mxPoint x="-112" y="1692" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-256" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-312" y="862" as="targetPoint" />
+            <mxPoint x="-112" y="1292" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-112" y="862" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-257" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Scholar&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.externalEntity;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-321" y="1297" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-258" value="req. for Renewal" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-288" y="897" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-259" value="Chosen Sched,&lt;div&gt;Dept,Church&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-322" y="867" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-260" value="name, email" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-321" y="949" width="149" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-261" value="new username,&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;password&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-359.5" y="989" width="128.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-263" value="Gratis duty &amp;amp; fellowship record" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-482" y="1609" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-264" value="Certificate of Completion" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-499" y="1548" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-266" value="approval of exit" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-521" y="1510" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-267" value="upcoming events" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-546" y="1670" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-268" value="penalty hours" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-437" y="1569" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-269" value="Total Gratis Hours Required" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-491" y="1627" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-270" value="Account credentials (partial or full)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-512" y="1648" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-271" value="available sched, dept, ch" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-532" y="1588" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-272" value="Semester&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Id&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-437" y="1468" width="134" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-273" value="Scholar Card" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-318" y="919" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-274" value="QR code of Scho" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-436" y="1491" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-275" value="Exit/absent request" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-292" y="837" width="176" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-276" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-132" y="1432" as="targetPoint" />
+            <mxPoint x="-522" y="992" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-522" y="1672" />
+              <mxPoint x="-132" y="1672" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-277" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-152" y="1432" as="targetPoint" />
+            <mxPoint x="-512" y="992" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-512" y="1652" />
+              <mxPoint x="-152" y="1652" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-278" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-172" y="1432" as="targetPoint" />
+            <mxPoint x="-502" y="992" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-502" y="1632" />
+              <mxPoint x="-172" y="1632" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-279" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-192" y="1432" as="targetPoint" />
+            <mxPoint x="-492" y="992" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-492" y="1612" />
+              <mxPoint x="-192" y="1612" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-280" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-212" y="1432" as="targetPoint" />
+            <mxPoint x="-482" y="992" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-482" y="1592" />
+              <mxPoint x="-212" y="1592" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-281" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-232" y="1432" as="targetPoint" />
+            <mxPoint x="-472" y="992" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-472" y="1572" />
+              <mxPoint x="-232" y="1572" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-282" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-252" y="1432" as="targetPoint" />
+            <mxPoint x="-462" y="992" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-462" y="1552" />
+              <mxPoint x="-252" y="1552" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-283" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-272" y="1432" as="targetPoint" />
+            <mxPoint x="-452" y="992" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-452" y="1532" />
+              <mxPoint x="-272" y="1532" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-284" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-292" y="1432" as="targetPoint" />
+            <mxPoint x="-442" y="992" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-442" y="1512" />
+              <mxPoint x="-292" y="1512" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-285" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-312" y="1432" as="targetPoint" />
+            <mxPoint x="-432" y="992" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-432" y="992" />
+              <mxPoint x="-432" y="1492" />
+              <mxPoint x="-312" y="1492" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-286" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-312" y="942" as="targetPoint" />
+            <mxPoint x="-172" y="1292" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-172" y="942" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-287" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-372" y="992" as="targetPoint" />
+            <mxPoint x="-220" y="1292" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-220" y="1022" />
+              <mxPoint x="-372" y="1022" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-288" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-312" y="922" as="targetPoint" />
+            <mxPoint x="-152" y="1292" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-152" y="922" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-289" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-312" y="902" as="targetPoint" />
+            <mxPoint x="-132" y="1292" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-132" y="1292" />
+              <mxPoint x="-132" y="962" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-290" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-320" y="972" as="targetPoint" />
+            <mxPoint x="-192" y="1292" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-192" y="972" />
+              <mxPoint x="-312" y="972" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-291" value="approval of absent" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-511" y="1530" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-292" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Church Personnel&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.externalEntity;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-1194.75" y="1091" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-293" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;monitoring&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;personnel&lt;/font&gt;&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.externalEntity;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-1180" y="1297.5" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-294" value="Account Credentials" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-946.5" y="1110" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-295" value="Info in Scholar scanned" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-1020" y="1061" width="244" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-297" value="Fellowship Attendance" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-943" y="1170" width="209" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-298" value="name, email" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-880" y="1149" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-299" value="new username, password" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-946.5" y="1189" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-300" value="new username, password" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-897" y="1387.5" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-301" value="name, email" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-864.5" y="1348.5" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-303" value="Violation Reason" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-873.5" y="1367.5" width="168" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-304" value="Account Credentials" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-916" y="1289.5" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-305" value="Info in Scholar scanned" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-914" y="1308.5" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-306" value="Fellowship Date" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-954.75" y="1090" width="173.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-309" value="List of Monitored Accounts" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-916" y="1330.5" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-310" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-960" y="1092" as="targetPoint" />
+            <mxPoint x="-790" y="993" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-790" y="1092" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-311" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-960" y="1112" as="targetPoint" />
+            <mxPoint x="-770" y="993" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-770" y="1112" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-313" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-960" y="1132" as="targetPoint" />
+            <mxPoint x="-750" y="992" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-750" y="1132" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-314" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-730" y="993" as="targetPoint" />
+            <mxPoint x="-960" y="1172" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-730" y="1172" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-315" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-710" y="992" as="targetPoint" />
+            <mxPoint x="-960" y="1192" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-710" y="1192" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-317" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-692" y="992.5" as="targetPoint" />
+            <mxPoint x="-960" y="1212" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-692" y="1212" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-319" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-952" y="1312.5" as="targetPoint" />
+            <mxPoint x="-662" y="992.5" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-662" y="1312.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-320" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-952" y="1331.5" as="targetPoint" />
+            <mxPoint x="-642" y="992.5" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-642" y="1331.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-321" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-952" y="1352.5" as="targetPoint" />
+            <mxPoint x="-622" y="992.5" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-622" y="1352.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-322" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-602" y="992.5" as="targetPoint" />
+            <mxPoint x="-952" y="1372.5" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-602" y="1372.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-323" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-582" y="992.5" as="targetPoint" />
+            <mxPoint x="-952" y="1392.5" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-582" y="1392.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-324" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-562" y="992.5" as="targetPoint" />
+            <mxPoint x="-952" y="1412.5" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-562" y="1412.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-329" value="Gratis Attendace(time in &amp;amp; time out)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-1203" y="941" width="327.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-330" value="name, email" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-1112.5" y="860" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-331" value="new username, password" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="919" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-332" value="Account Credentials" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-1140" y="727.5" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-333" value="Info in Scholar scanned" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-1130" y="749" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-334" value="warning of invalid scholar&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-1119" y="710" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-338" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-860" y="942" as="targetPoint" />
+            <mxPoint x="-1100" y="922" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-1100" y="942" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-339" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-860" y="963.74" as="targetPoint" />
+            <mxPoint x="-1210" y="922" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-1210" y="964" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-341" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-850" y="612" as="targetPoint" />
+            <mxPoint x="-1050" y="612" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-1050" y="612" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-340" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;School Head&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.externalEntity;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-1280" y="582" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-342" value="New scho head info" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-1039" y="585" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-343" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-848" y="641" as="targetPoint" />
+            <mxPoint x="-1050" y="642" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-1050" y="642" />
+              <mxPoint x="-848" y="642" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-344" value="scho head status" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-1039" y="619" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-345" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1180" y="781" as="targetPoint" />
+            <mxPoint x="-860" y="732" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-860" y="732" />
+              <mxPoint x="-1180" y="732" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-348" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=220;exitDy=92.5;exitPerimeter=0;" edge="1" parent="1" source="KA4KKc2KkNfriNgj_y6W-328">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-860" y="883.4242424242425" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-328" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Scho Personnel&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.externalEntity;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-1280" y="791" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-346" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1160" y="781" as="targetPoint" />
+            <mxPoint x="-860" y="752" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-850" y="752" />
+              <mxPoint x="-1160" y="752" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KA4KKc2KkNfriNgj_y6W-347" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1120" y="788" as="targetPoint" />
+            <mxPoint x="-850" y="772" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-860" y="772" />
+              <mxPoint x="-1120" y="772" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
