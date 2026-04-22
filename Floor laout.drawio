@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="FQeZLO8NfC_O46UhH4ql">
-    <mxGraphModel dx="2753" dy="1560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1770" dy="1003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1765,7 +1765,7 @@
         <mxCell id="ZQ-I5vS_vcCCt313GEWp-206" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;shadow=0;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;fontSize=12;" value="&lt;font face=&quot;Lucida Console&quot;&gt;Trash Bin&lt;/font&gt;" vertex="1">
           <mxGeometry height="24.09" width="118" x="2420" y="881.01" as="geometry" />
         </mxCell>
-        <mxCell id="ZQ-I5vS_vcCCt313GEWp-207" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;shadow=0;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;fontSize=12;" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Legends&lt;/b&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="ZQ-I5vS_vcCCt313GEWp-207" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;shadow=0;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;fontSize=12;" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Legend&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="24.09" width="92.73" x="2432.64" y="531.9499999999999" as="geometry" />
         </mxCell>
       </root>
